@@ -19,6 +19,9 @@ function App() {
 
         </a>
       </header>
+      <p className="app-intro">
+        I was changed!
+      </p>
     </div>
   );
 }
